@@ -3,15 +3,22 @@
 ## La force : 
 	c'est la capacité physique du personnage, a quel point son physique est impacté par sa musculature, 1 représente la force d'un nouveau né, 10 à un champion de bodybuilding ou de sa catégorie sportive
 
+```
 ## La dexerité : 
 	C'est l'habileté, la précision des gestes du personnage, une habileté physique mais différente de la force, 1 correspond à quellqu'un d'extremement maladroit et 10 à un artisan hors pair de son domaine.
 
 ## L'agilité :
 	C'est l'habileté manuelle du personnage, est il capable de tenir parfaitement en équilibre sur un fil ? sait il faire des acrobaties ? sait il se contorsionner ? Tout ceci représente l'agilité, au plus elle est elevée , au plus le personnage se raproche de l'agilité d'un acrobate a son paroxisme.
-
+```
+	remplacé par : 
+```
+## Habileté :
+	Combiné de l'habilité manuelle et l'habileté physique du personnage, concerne, la précision, le talent de l'artisanat mais aussi les acrobaties, la flexibilité, au plus la statistique est elevée plus il est agile manuellement et mentalement, vif, réflèxes
+```
 ## La constitution :
 	Ou l'endurance du personnage, la force c'est bien mais combien de temps est il capable de courrir ? est il capable d'encaisser les coups sans broncher ? Tout ceci est determinée par la constitution du personnage.
 
+```
 ## L'intelligence :
 	Concerne la mémorisation , la compréhension, les connaissances, l'apprentissage et la capacité de raisonement, mais aussi tout ce qui est apparenté à la magie.
 
@@ -20,6 +27,12 @@
 
 ## La volonté :
 	C'est sa force mentale, sa capacité à résister aux attaques mentales, lefait de pouvoir tenir tête à une personne ou pour éviter de sombrer dans la folie.
+```
+remplacé par :
+```
+## mental :
+	Combiné de la mémorisation , compréhension, les connaissance , capacité d'apprentissage , de raisonement, tout ce qui est lié à la magie mais aussi sa force mentale, sa capacité à résister aux attaques mentales, sa capacité à communiquer avec le monde des esprit , l'invocation de créatures etc...
+```
 
 ## Perception :
 	Mesure l'acuité sensorielle, auditive et visuelle du personnage.
