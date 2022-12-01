@@ -3,36 +3,14 @@
 ## La force : 
 	c'est la capacité physique du personnage, a quel point son physique est impacté par sa musculature, 1 représente la force d'un nouveau né, 10 à un champion de bodybuilding ou de sa catégorie sportive
 
-```
-## La dexerité : 
-	C'est l'habileté, la précision des gestes du personnage, une habileté physique mais différente de la force, 1 correspond à quellqu'un d'extremement maladroit et 10 à un artisan hors pair de son domaine.
-
-## L'agilité :
-	C'est l'habileté manuelle du personnage, est il capable de tenir parfaitement en équilibre sur un fil ? sait il faire des acrobaties ? sait il se contorsionner ? Tout ceci représente l'agilité, au plus elle est elevée , au plus le personnage se raproche de l'agilité d'un acrobate a son paroxisme.
-```
-	remplacé par : 
-```
 ## Habileté :
 	Combiné de l'habilité manuelle et l'habileté physique du personnage, concerne, la précision, le talent de l'artisanat mais aussi les acrobaties, la flexibilité, au plus la statistique est elevée plus il est agile manuellement et mentalement, vif, réflèxes
-```
+
 ## La constitution :
 	Ou l'endurance du personnage, la force c'est bien mais combien de temps est il capable de courrir ? est il capable d'encaisser les coups sans broncher ? Tout ceci est determinée par la constitution du personnage.
 
-```
-## L'intelligence :
-	Concerne la mémorisation , la compréhension, les connaissances, l'apprentissage et la capacité de raisonement, mais aussi tout ce qui est apparenté à la magie.
-
-## Le Pouvoir :
-	Représente les capacités surnaturelle du personnage, c'est un statistique optionnelle pour les cas ou le personnage communique de près ou de loins au monde des esprits , a l'invocation ou tout autre mécaniques magiques
-
-## La volonté :
-	C'est sa force mentale, sa capacité à résister aux attaques mentales, lefait de pouvoir tenir tête à une personne ou pour éviter de sombrer dans la folie.
-```
-remplacé par :
-```
 ## mental :
 	Combiné de la mémorisation , compréhension, les connaissance , capacité d'apprentissage , de raisonement, tout ce qui est lié à la magie mais aussi sa force mentale, sa capacité à résister aux attaques mentales, sa capacité à communiquer avec le monde des esprit , l'invocation de créatures etc...
-```
 
 ## Perception :
 	Mesure l'acuité sensorielle, auditive et visuelle du personnage.
@@ -94,11 +72,8 @@ remplacé par :
 	5 en constitution représente 1m50 et tout les nouveaux modificateurs (A la création) ajoutez +10cm à la taille.
 	exemple : 5 en constitution représente 2 en modificateurs, on additionne les 1m50 et les 20cm ce qui fait 1m70 pour vôtre personnage.
 
-### Le poids
-	On se base sur un IMC basique selon la aille du personnage, au plus le personnage a un modificateur elevé de force, au plus il est svelte voir musclé , au contraire, moins il en à et plus il sera obèse, à l'appréciation du MJ.
-
 ### L'apparence
-	Se fait en lancant un d10 et représente l'aspect général du personnage, 5 représentant  quelqu'un de normal, 10 représente une beauté immense ! Un demi-dieu ne peux pas être en dessous de 8 à moins d'avoir le trait "horrible", un dieu en revanche lui n'a pas le droit d'être en dessous de 11 à moins d'avoir le trait "horrible".
+	Se fait en lancant un d10 et représente l'aspect général du personnage, 5 représentant  quelqu'un de normal, 10 représente une beauté immense ! Un demi-dieu ne peux pas être en dessous de 8 à moins d'avoir le trait "horrible", un dieu en revanche lui n'a pas le droit d'être en dessous de 11 à moins d'avoir le trait "horrible". Voir la partie des traits
 
 
 ## Choisir sa race
@@ -122,12 +97,11 @@ remplacé par :
 	la défense n'est prise en compte que si l'attaque est subie de plein fouet ou que la parade ou l'esquive est ratée.
 
 ### La parade
-	c'est un jet de dexterité mais en restant armé et prêt au combat, si les conditions sonts remplies alors on soustrait a la parade, l'attaque, si le resultat est négatif alors on soustrait l'absolu aux PV restant du personnage qui à parré, la parade est une action défensive, reférez vous à la défense pour connaitre les résultats de rebond.
+	Reservé uniquement en arme de melée vs arme de melée, c'est une attaque contre attaque celui qui perd la confrontation se prend tout les dégats
 
 ### L'esquive
-	c'est un jet d'agilité face à une attaque ennemie, on soustrait au jet d'agilité l'attaque subie, si le résultat est négatif on soustrait l'absolu de ce résultat aux pv du personnage esquivant, si le résultat est positif alors le personnage esquive sans problème voir peux prendre l'avantage sur la prochaine action mais il n'y a aucun effet de rebond disponible avec cette action.
+	c'est un jet d'habileté, uniquement face aux armes de melée, si la difficulté est dépassée sur le jet, alors il y a esquive et possibilité de contre attaquer, l'esquive compte comme un jet martial donc la contre attaque sera la deuxieme action de ce champ
 
 ## Les points de vie
-	Les points de vie ont une base de 2 auxquel on additionne 1d4 ensuite les bonus de race, de classe et des points de création voir les sections dédiées.
-	chaques niveau ajoute son bonus par niveau dû aux classes et aux races
+	Les points de vie ont une base de 2 auxquel on additionne le mod de constitution, les bonus de races en constant et les bonus spéciaux en temporaire
 
