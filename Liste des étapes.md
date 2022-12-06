@@ -2,7 +2,7 @@
 
 Création de personnage [v]
 Les classes [v]
-les compétences
+les compétences[v]
 le combat
 la magie
 les arts martiaux
